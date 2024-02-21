@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708441496,
+	"version": 1708478787,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,10 +23,10 @@
 		"images/enemybullet2-sheet1.png",
 		"images/enemybullet2-sheet2.png",
 		"images/particles2.png",
-		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/fadein-sheet0.png",
 		"images/fadeout-sheet0.png",
+		"images/sprite3-sheet0.png",
 		"media/enemy.m4a",
 		"media/enemy.ogg",
 		"media/fondo.m4a",
