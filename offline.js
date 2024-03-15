@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1710509299,
+	"version": 1710532101,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,7 +28,6 @@
 		"images/ovnis1-sheet0.png",
 		"images/manos1-sheet0.png",
 		"images/manos1-sheet1.png",
-		"images/manos1-sheet2.png",
 		"images/volver-sheet0.png",
 		"images/fondoover-sheet0.png",
 		"images/attak-sheet0.png",
