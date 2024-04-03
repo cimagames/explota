@@ -1,7 +1,7 @@
 {
-	"name": "Vertical space shooter template",
-	"short_name": "Vertical space shooter template",
-	"description": "",
+	"name": "AttackAlienMoon",
+	"short_name": "AttackAlienMoon",
+	"description": "attackalienmoon",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
