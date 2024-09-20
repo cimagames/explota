@@ -45,6 +45,7 @@ self.C3_JsPropNameTable = [
 	{Sprite: 0},
 	{Físicas: 0},
 	{Partículas: 0},
+	{Sprite2: 0},
 	{distancia: 0},
 	{intentos: 0},
 	{estado: 0}
@@ -61,5 +62,6 @@ self.InstanceType = {
 	TextoInformacion: class extends self.ITextInstance {},
 	Audio: class extends self.IInstance {},
 	Sprite: class extends self.ISpriteInstance {},
-	Partículas: class extends self.IParticlesInstance {}
+	Partículas: class extends self.IParticlesInstance {},
+	Sprite2: class extends self.ISpriteInstance {}
 }
